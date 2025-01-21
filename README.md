@@ -7,18 +7,17 @@
 - **Change background by typing anywhere in screen**
 - **Reset background to default(white)**
 
-# Screenshots
+# Video
+
+https://github.com/user-attachments/assets/33d8cf15-dd1e-466b-b34c-c830499677e2
+
 
 # Run Project Local
 
 ## Step 1: Install dependencies
 
 ```bash
-# using npm
 npm install
-
-# OR using Yarn
-yarn install
 ```
 
 ## Step 2: Start your Application
